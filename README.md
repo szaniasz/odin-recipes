@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I am setting up a simple website with links to few recipes. At the end of it I will have demonstrated that I am able to write a html code and to use git to show my workflow.
